@@ -8,7 +8,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Installation
 
-1. Fork the repository into your account.
+1. **Fork the repository into your account.**
 2. Clone the repository:
 
    ```sh
@@ -52,3 +52,13 @@ This will execute the test suite and display the results in the terminal.
 - Don't make any changes to any of the test files.
 - Once complete, open a PR against the forked repo and submit the link with the assignment form.
 
+### Submitting the Assignment
+
+_Make sure that the todo assignment and this assignment are both done. You will be submitting both PR links on the same form._
+
+1. Clone Code-the-Dream-School/multicalc-tests to your own GitHub account.
+2. Clone that down to you local machine and create a working branch.
+3. Work through the tests, fixing the code so that the tests fail. Don’t make any changes to the test files - !!
+4. Once all your tests pass, publish your own working branch to GitHub.
+5. Open a PR againt your own repo (not the one found at https://github.com/Code-the-Dream-School/multicalc-tests/).
+6. Add the PR link into the second URL field for the week's assignment submission. 
